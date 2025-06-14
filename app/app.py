@@ -1,4 +1,4 @@
- Marine Eco-AI: Step-by-Step AI for Monitoring Oil Spills using Satellite Imagery
+ Marine Eco-AI: Step-by-Step AI of  Monitoring Oil Spills using Satellite Imagery
  Tool: Python, TensorFlow/Keras, OpenCV, Streamlit, GitHub
  Application: Detecting oil spills in ocean satellite images
 
